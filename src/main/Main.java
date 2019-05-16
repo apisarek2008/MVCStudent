@@ -15,7 +15,7 @@ public class Main {
 		controler.updateView();
 		//update model data
 		controler.setStudentName("Johny");
-		controler.setStudentRollN("909090");
+		controler.setStudentRollN("90909087979797979");
 		controler.updateView();
 		
 		
@@ -25,7 +25,7 @@ public class Main {
 	private static StudentModel retriveStudentFromDatabase() {
 		StudentModel student = new StudentModel();
 		student.setName("Roberto");
-		student.setRollNum("879");
+		student.setRollNum("879797979797963131313");
 		return student;
 	}
 
